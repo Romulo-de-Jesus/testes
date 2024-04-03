@@ -1,3 +1,9 @@
+//Musica de fundo
+var audio2 = new Audio('Desert.mp3');
+audio2.loop = true
+audio2.play();
+////////////////////////////////////////////////////////////
+
 caixa = document.getElementById("id_caixa")
 var postop = 0
 var posleft = 0
